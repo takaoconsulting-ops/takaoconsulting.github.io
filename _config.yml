@@ -18,7 +18,8 @@ title: Takao Consulting # the main title
 
 tagline: Estrategia, innovación y análisis político # it will display as the subtitle
 
-description: "Consultora especializada en comunicación, estrategia y análisis político con enfoque moderno.>- # used by seo meta and the atom feed
+description: >-
+  Consultora especializada en comunicación, estrategia y análisis político con enfoque moderno.
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
 # Fill in the protocol & hostname for your site.
