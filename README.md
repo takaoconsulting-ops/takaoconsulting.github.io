@@ -1,0 +1,1 @@
+# takaoconsulting.github.io
